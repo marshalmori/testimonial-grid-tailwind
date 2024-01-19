@@ -11,6 +11,7 @@
   "author": "Marshal Mori Cavalheiro",
   "license": "MIT",
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4",
     "tailwindcss": "^3.4.1"
   }
 }
